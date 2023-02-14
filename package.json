@@ -1,0 +1,22 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "inquirer-file-tree-selection-prompt": "^2.0.5",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
